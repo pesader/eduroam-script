@@ -1,11 +1,11 @@
 # Eduroam Script
 
-Esse repositório contém o script providenciado pela própria companhia que
-oference o serviço da eduroam
+Configure a eduroam no Linux com uma única linha de comando.
 
 ## O quê?
 
-Configure a eduroam no Linux com uma única linha de comando.
+Este script é apenas uma versão levemente modificada do script disponibilizado
+pela própria eduroam no site https://cat.eduroam.org/.
 
 ## Por quê?
 
